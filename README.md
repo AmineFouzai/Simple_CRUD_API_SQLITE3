@@ -3,7 +3,6 @@
 <p>Simple CRUD API  Useing Tornado  Framework And SQLite3  For The Database</p>
 <hr>
 <h1>#setup:</h1>
-<p>then run project with torn cli :</p>
 <hr>
 <table>
 <tr>
@@ -16,4 +15,5 @@
 <td> 3) pipenv install - r requirements.txt</td>
 </tr>
 </table>
-
+<p>then run project with torn cli :</p>
+<h1>#command: [ torn run ] </h1>
