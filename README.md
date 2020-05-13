@@ -34,3 +34,23 @@
 <table>
  <hr>
   <h1>Also use methods [Delete,Put,GET]:</h1>
+  
+<hr>
+<h2>ex:</h2>
+  {
+    "id":"0001",
+    "title":"POST 1",
+    "body":"this is POST 1",
+    
+    "id":"0002",
+    "title":"POST 2",
+    "body":"this is POST 3"
+    
+    "id":"0003",
+    "title":"POST 3",
+    "body":"this is POST 4"
+   }
+
+  
+  
+  
