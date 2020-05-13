@@ -32,3 +32,5 @@
 </td>
 <tr>
 <table>
+ <hr>
+  <h1>Also use methods [Delete,Put,GET]:</h1>
