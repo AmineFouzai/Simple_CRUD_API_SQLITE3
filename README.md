@@ -5,6 +5,12 @@
 <h1>#setup:</h1>
 <hr>
 <table>
+  <tr>
+  <td> git clone https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3 </td>
+  </tr>
+ <tr>
+   <td> cd Simple_CRUD_API_SQLITE3</td>
+   </tr>
 <tr>
 <td> 1) pip install pipenv</td>
 </tr>
