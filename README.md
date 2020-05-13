@@ -23,3 +23,4 @@
 </table>
 <p>then run project with torn cli :</p>
 <h1>#command: [ torn run ] </h1>
+<p1>use postman to send request to http://localhost:8000</p1>
