@@ -5,20 +5,20 @@
 <h1>#setup:</h1>
 <hr>
 <table>
-  <tr>
-  <td> git clone https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3 </td>
-  </tr>
- <tr>
-   <td> cd Simple_CRUD_API_SQLITE3</td>
-   </tr>
 <tr>
-<td> 1) pip install pipenv</td>
-</tr>
-</tr>
-<td> 2) pipenv --python 3.6</td>
+<td> 1)  git clone https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3 </td>
 </tr>
 <tr>
-<td> 3) pipenv install - r requirements.txt</td>
+<td> 2) cd Simple_CRUD_API_SQLITE3</td>
+</tr>
+<tr>
+<td> 3) pip install pipenv</td>
+</tr>
+</tr>
+<td> 4) pipenv --python 3.6</td>
+</tr>
+<tr>
+<td> 5) pipenv install - r requirements.txt</td>
 </tr>
 </table>
 <p>then run project with torn cli :</p>
