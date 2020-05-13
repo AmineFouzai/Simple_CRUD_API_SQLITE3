@@ -36,8 +36,7 @@
   <h1>Also use methods [Delete,Put,GET]:</h1>
   
 <hr>
-<h2>ex:[POST]</h2>
--request[body]:
+<h2>ex:[GET]</h2>
   {
   
     "id":"0001",
@@ -52,16 +51,17 @@
     "title":"POST 3",
     "body":"this is POST 4"
    }
--response:
-{
-[
-[1, "POST 2", "this is POST 1"],
-[2, "POST 3", "this is POST 2"],
-[3, "POST 4", "this is POST 3"]
-]
-}
-  
+ <h2>ex:[DELETE]</h2>
+   {
+    "id":"0001",
+   }
 
-  
+   <h2>ex:[PUT]</h2>
+   {
+   
+    "id":"0001",
+    "title":"Title of POST 1 UPDATED",
+    "body":"Body of POST 1 UPDATED",
+   }
   
   
