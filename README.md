@@ -25,4 +25,4 @@
 <h2>-then run project with torn cli :</h2>
 <h1>#command: [ torn run ] </h1>
 <p1>-use postman to send request to [ http://localhost:8000/ ]</p1>
-<img src="https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3/tree/master/Captures">
+<img src="https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3/tree/master/Captures/Capture.png">
