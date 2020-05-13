@@ -21,6 +21,7 @@
 <td> 5) pipenv install - r requirements.txt</td>
 </tr>
 </table>
-<p>then run project with torn cli :</p>
+<hr>
+<h2>-then run project with torn cli :</h2>
 <h1>#command: [ torn run ] </h1>
-<p1>use postman to send request to [ http://localhost:8000/ ]</p1>
+<p1>-use postman to send request to [ http://localhost:8000/ ]</p1>
