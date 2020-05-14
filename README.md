@@ -20,12 +20,15 @@
 <tr>
 <td> 5) pipenv install - r requirements.txt</td>
 </tr>
+<tr>
+  <td>
+    6) run project with <a href="https://pypi.org/project/torn/">torn cli</a> : <b>#command: [ torn run ] </b>  </td>
+ </tr>
 </table>
 <hr>
-<h2>run project with <a href="https://pypi.org/project/torn/">torn cli</a> :</h2>
-<h1>#command: [ torn run ] </h1>
+
 <hr>
-<h2>#use <a href="https://www.postman.com/">postman</a> to send requests to <a href="http://localhost:8000">http://localhost:8000</a> </h2>
+<h3>#Use <a href="https://www.postman.com/">postman</a> to send requests to <a href="http://localhost:8000">http://localhost:8000</a> </h3>
 <br>
 <table>
   <tr>
@@ -35,7 +38,7 @@
 <tr>
 <table>
  <hr>
-  <h1>Also use methods [Delete,Put,GET]:</h1>
+  <h1>#Also use methods [Delete,Put,GET]:</h1>
   
 <hr>
 <h2>ex:[GET]</h2>
@@ -52,6 +55,7 @@
     "id":"0003",
     "title":"POST 3",
     "body":"this is POST 4"
+   
    }
  <h2>ex:[DELETE]</h2>
    {
@@ -59,13 +63,13 @@
     "id":"0001"
    
    }
-
-   <h2>ex:[PUT]</h2>
+  <h2>ex:[PUT]</h2>
    {
    
     "id":"0001",
     "title":"Title of POST 1 UPDATED",
     "body":"Body of POST 1 UPDATED",
+   
    }
   
   
