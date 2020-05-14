@@ -3,7 +3,6 @@
 <p>Simple CRUD API  Build With  <a href="https://www.tornadoweb.org/en/stable/">Tornado</a>  Framework And SQLite3  For The Database</p>
 <hr>
 <h1>#setup:</h1>
-<hr>
 <table>
 <tr>
 <td> 1)  git clone https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3 </td>
@@ -25,8 +24,6 @@
     6) run project with <a href="https://pypi.org/project/torn/">torn cli</a> : <b>#command: [ torn run ] </b>  </td>
  </tr>
 </table>
-<hr>
-
 <hr>
 <h3>#Use <a href="https://www.postman.com/">postman</a> to send requests to <a href="http://localhost:8000">http://localhost:8000</a> </h3>
 <br>
