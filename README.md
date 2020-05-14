@@ -24,7 +24,7 @@
 <hr>
 <h2>-then run project with torn cli :</h2>
 <h1>#command: [ torn run ] </h1>
-<p1>-use <a href="https://www.postman.com/">postman</a> to send request to [ http://localhost:8000/ ]</p1>
+<p1>#use <a href="https://www.postman.com/">POSTMAN</a> to send request to <font color="blue"> http://localhost:8000/ </font></p1>
 <br>
 <table>
   <tr>
