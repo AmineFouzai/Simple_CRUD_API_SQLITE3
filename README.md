@@ -22,7 +22,7 @@
 </tr>
 </table>
 <hr>
-<h2>-then run project with torn cli :</h2>
+<h2>-then run project with <a href="https://pypi.org/project/torn/">torn cli</a> :</h2>
 <h1>#command: [ torn run ] </h1>
 <hr>
 <h2>#use <a href="https://www.postman.com/">postman</a> to send requests to<a href="http://localhost:8000">http://localhost:8000</a> </h2>
