@@ -39,8 +39,8 @@
   
 <hr>
 <h2>ex:[GET]</h2>
-  {
   
+    {
     "id":"0001",
     "title":"POST 1",
     "body":"this is POST 1",
@@ -52,21 +52,20 @@
     "id":"0003",
     "title":"POST 3",
     "body":"this is POST 4"
+    }
    
-   }
  <h2>ex:[DELETE]</h2>
-   {
-   
-    "id":"0001"
-   
-   }
-  <h2>ex:[PUT]</h2>
-   {
-   
+    
+      {
+      "id":"0001"
+      }
+ 
+ <h2>ex:[PUT]</h2>
+    
+    {
     "id":"0001",
     "title":"Title of POST 1 UPDATED",
     "body":"Body of POST 1 UPDATED",
-   
-   }
+    }
   
   
