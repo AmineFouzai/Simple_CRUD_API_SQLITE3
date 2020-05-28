@@ -29,7 +29,9 @@ Simple CRUD API  Build With [Tornado](https://www.tornadoweb.org/en/stable/)  Fr
 </table>
 <hr>
 
- Use [Postman](https://www.postman.com/) to send requests to http://localhost:8000
+# Usage:
+
+Use [Postman](https://www.postman.com/) to send requests to http://localhost:8000
 
 ![https://www.postman.com/](https://miro.medium.com/max/3010/1*QOx_tPV5wJnhTzAGhfIiLA.png)
 
