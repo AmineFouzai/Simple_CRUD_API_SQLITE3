@@ -1,8 +1,11 @@
 # Simple_CRUD_API_SQLITE3
 
-<p>Simple CRUD API  Build With  <a href="https://www.tornadoweb.org/en/stable/">Tornado</a>  Framework And SQLite3  For The Database</p>
-<hr>
-<h1>#setup:</h1>
+Simple CRUD API  Build With [Tornado](https://www.tornadoweb.org/en/stable/)  Framework And SQLite3  For The Database
+
+-----------------------------
+
+# setup:
+
 <table>
 <tr>
 <td> 1)  git clone https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3 </td>
@@ -25,20 +28,16 @@
  </tr>
 </table>
 <hr>
-<h3>#Use <a href="https://www.postman.com/">postman</a> to send requests to <a href="http://localhost:8000">http://localhost:8000</a> </h3>
-<br>
-<table>
-  <tr>
-    <td>
-<img src="https://github.com/MedAmineFouzai/Simple_CRUD_API_SQLITE3/blob/master/Captures/Capture.PNG">
-</td>
-<tr>
-<table>
- <hr>
-  <h1>#Also use methods [Delete,Put,GET]:</h1>
+
+## Use [Postman](https://www.postman.com/) to send requests to http://localhost:8000
+
+ ----------------------------------------------
+ 
+## Also use methods [Delete,Put,GET]:
   
-<hr>
-<h2>ex:[GET]</h2>
+-----------------------------------------------
+
+## ex:[ GET ]
   
     {
     "id":"0001",
@@ -54,13 +53,13 @@
     "body":"this is POST 4"
     }
    
- <h2>ex:[DELETE]</h2>
+ ## ex:[ DELETE ]
     
       {
       "id":"0001"
       }
  
- <h2>ex:[PUT]</h2>
+ ## ex:[ PUT ]
     
     {
     "id":"0001",
