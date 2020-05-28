@@ -29,15 +29,22 @@ Simple CRUD API  Build With [Tornado](https://www.tornadoweb.org/en/stable/)  Fr
 </table>
 <hr>
 
-## Use [Postman](https://www.postman.com/) to send requests to http://localhost:8000
+ Use [Postman](https://www.postman.com/) to send requests to http://localhost:8000
 
- ----------------------------------------------
- 
-## Also use methods [Delete,Put,GET]:
-  
------------------------------------------------
+![https://www.postman.com/](https://miro.medium.com/max/3010/1*QOx_tPV5wJnhTzAGhfIiLA.png)
 
-## ex:[ GET ]
+----------------------------------------------
+
+
+### ex:[ POST]
+
+    {
+    "id":"0001",
+    "title":"POST 1",
+    "body":"this is POST 1",
+    }
+    
+### ex:[ GET ]
   
     {
     "id":"0001",
@@ -53,13 +60,13 @@ Simple CRUD API  Build With [Tornado](https://www.tornadoweb.org/en/stable/)  Fr
     "body":"this is POST 4"
     }
    
- ## ex:[ DELETE ]
+ ### ex:[ DELETE ]
     
       {
       "id":"0001"
       }
  
- ## ex:[ PUT ]
+ ### ex:[ PUT ]
     
     {
     "id":"0001",
