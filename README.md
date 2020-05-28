@@ -33,7 +33,7 @@ Simple CRUD API  Build With [Tornado](https://www.tornadoweb.org/en/stable/)  Fr
 
 ![https://www.postman.com/](https://miro.medium.com/max/3010/1*QOx_tPV5wJnhTzAGhfIiLA.png)
 
-----------------------------------------------
+
 
 
 ### ex:[ POST]
